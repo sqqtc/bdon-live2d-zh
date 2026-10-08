@@ -1,0 +1,101 @@
+Model Select	模型选择
+Character Select	角色选择
+No Model Selected	未选择模型
+Basic	基础
+Pose	姿势
+Parts Visibility	部件显示
+Default Pose	默认姿势
+If model is stuck — refresh the website.	如果模型卡住了，请刷新网页。
+Pose adjustments apply after the animation finishes!	姿势调整会在动画播放结束后生效！
+Info	信息
+Member Cards	成员卡牌
+Songs Meta	歌曲元数据
+Others	其他
+Other	其他
+Events Tracker	活动追踪
+Story Reader	剧情阅读器
+Privacy Policy	隐私政策
+Credits	制作人员
+Developer Socials	开发者社交账号
+Official Socials	官方社交账号
+Made with	使用
+ParamPosition	位置
+ParamAngleX	头部左右旋转
+ParamAngleY	头部上下旋转
+ParamAngleZ	头部倾斜
+ParamAngleXPlus20	头部角度X＋20
+ParamAngleXMinus20	头部角度X－20
+ParamAngleXPlus30	头部角度X＋30
+ParamAngleXMinus30	头部角度X－30
+ParamEyeLOpen	左眼开闭
+ParamEyeROpen	右眼开闭
+ParamEyeLSmile	左眼微笑
+ParamEyeRSmile	右眼微笑
+ParameyelidL	左眼睑
+ParameyelidR	右眼睑
+ParamEyeBallX	眼球左右
+ParamEyeBallY	眼球上下
+ParamEyeLScsle	左眼缩放
+ParamEyeRScsle	右眼缩放
+ParamEyeLScsle2	左眼缩放2
+ParamEyeRScsle2	右眼缩放2
+ParamEyeLHighlight	左眼高光
+ParamEyeRHighlight	右眼高光
+ParamEyeLShakingX2	左眼抖动X2
+ParamEyeLShakingX3	左眼抖动X3
+ParamEyeRShakingX	右眼抖动X
+ParamEyeRShakingY	右眼抖动Y
+ParameyeLlashShakingX	左眼睫毛抖动X
+ParameyeRlashShakingX	右眼睫毛抖动X
+ParamTear	眼泪
+Param_tears_puru	泪珠颤动
+ParamBrowLY	左眉上下
+ParamBrowLX	左眉左右
+ParamBrowLAngle	左眉角度
+ParamBrowLForm	左眉形状
+ParamBrowRY	右眉上下
+ParamBrowRX	右眉左右
+ParamBrowRAngle	右眉角度
+ParamBrowRForm	右眉形状
+ParamBrowR_eyebrows	右眉附加
+Param_thinking_eyeeyebrows	思考眉
+ParamMouthForm	嘴型
+ParamMouthOpenY	张嘴
+ParamMouthStrength	嘴部力度
+ParamMouthside	嘴部侧向
+ParamMouthupdawn	嘴部上下
+ParamBreath	呼吸
+ParamBodyPositionX	身体位置X
+ParamBodyAngleX	身体角度X
+ParamBodyAngleY	身体角度Y
+ParamBodyAngleZ	身体角度Z
+ParamBodyAngleY2	身体角度Y2
+ParamBodyAngleupdown	身体上下
+ParamShoulderL	左肩
+ParamShoulderR	右肩
+ParamChestX	胸部X
+ParamChestY	胸部Y
+ParamChestL	左胸
+ParamChestR	右胸
+ParamHairFront	前发摆动
+ParamHairFront2	前发摆动2
+ParamHairFront3	前发摆动3
+ParamHairFrontY	前发上下
+ParamHairFrontY2	前发上下2
+ParamHairSide	侧发摆动
+ParamHairSide2	侧发摆动2
+ParamHairSide3	侧发摆动3
+ParamHairSideY	侧发上下
+ParamHairSideY2	侧发上下2
+ParamHairBack	后发摆动
+ParamHairBack2	后发摆动2
+ParamHairBack3	后发摆动3
+ParamHairBackY	后发上下
+ParamHairBackY2	后发上下2
+ParamCheek	脸颊
+ParamCheek2	脸颊2
+ParamFluffy	蓬松
+ParamwWaistBelt1	腰带1
+ParamwWaistBelt2	腰带2
+ParamwWaistBeltFuwa1	腰带摆动1
+ParamwWaistBeltFuwa2	腰带摆动2

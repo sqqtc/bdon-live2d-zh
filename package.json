@@ -1,0 +1,18 @@
+{
+  "name": "bdon-live2d-zh",
+  "version": "1.5.2",
+  "private": true,
+  "type": "module",
+  "description": "Tampermonkey userscript that turns the Live2D tool page of bdon.yatta.moe (Project Yume) into Simplified Chinese.",
+  "license": "AGPL-3.0",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node build-dict.mjs",
+    "test": "node test-dict.mjs && node test-param.mjs && node test-boot.mjs",
+    "test:dict": "node test-dict.mjs",
+    "test:param": "node test-param.mjs",
+    "test:boot": "node test-boot.mjs"
+  }
+}

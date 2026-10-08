@@ -1,0 +1,9 @@
+# 统一用 LF 换行：脚本要在浏览器里按原样加载，词表要能逐行 diff
+* text=auto eol=lf
+*.user.js text eol=lf
+*.js text eol=lf
+*.mjs text eol=lf
+*.json text eol=lf
+*.tsv text eol=lf
+*.md text eol=lf
+*.txt text eol=lf

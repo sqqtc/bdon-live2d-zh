@@ -1,0 +1,15 @@
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 依赖与日志
+node_modules/
+*.log
+npm-debug.log*
+
+# 临时产物
+*.tmp
+research/*.tmp

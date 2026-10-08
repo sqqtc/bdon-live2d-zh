@@ -1,0 +1,221 @@
+Live2D stage	Live2D 舞台
+Preparing the Live2D runtime…	正在准备 Live2D 运行环境…
+Loading the model…	正在加载模型…
+The model could not be shown	模型无法显示
+The model data or Live2D Cubism Core did not arrive. The network may be down or the model site temporarily unavailable. Please try again later.	模型数据或 Live2D Cubism Core 未能加载，可能是网络异常或模型站点暂时不可用，请稍后再试。
+Try again	重试
+This browser cannot show Live2D models	当前浏览器无法显示 Live2D 模型
+The Live2D viewer needs WebGL2. Please use a recent desktop or mobile browser.	Live2D 浏览器需要 WebGL2，请使用较新的桌面或移动浏览器。
+Fullscreen	全屏
+Exit fullscreen	退出全屏
+Zoom in	放大
+Zoom out	缩小
+Reset zoom	重置缩放
+Filter models	筛选模型
+Search characters, costumes or model ids…	搜索角色、服装或模型 ID…
+Type	类型
+Show low quality copies	显示低画质副本
+Other characters	其他角色
+Choose a character	选择角色
+Costumes	服装
+Loading the model list…	正在加载模型列表…
+The model list could not be loaded.	模型列表加载失败。
+No Live2D models have been published yet.	暂未发布 Live2D 模型。
+Pick a character	选择一位角色
+Open the filter to choose a character by band; their costumes, motions and expressions are in the panel beside the model.	打开筛选器按团体选择角色；服装、动作与表情在模型旁的面板中切换。
+About the model data	关于模型数据
+moenotes reproduces what the game's own data packages contain: every model, motion and expression here comes from the game itself, and what you see in a browser does not represent the game's final quality. We do not offer free editing of model parameters: models posed with custom parameters can be badly distorted and are not how they look in the game, so please do not share them as official content.	moenotes 致力于原样还原游戏数据包中的内容：这里的每个模型、动作与表情都来自游戏本身，网页上的呈现也不代表游戏的最终品质。本站不提供任意修改模型参数的功能——经过自定义参数改动的模型画面可能严重失真，并非游戏内的真实表现，请勿将其当作官方内容传播。
+Model controls	模型控制
+The controls appear once the model is ready.	模型就绪后即可操作。
+Motions	动作
+Expressions	表情
+This model has no expressions.	此模型没有表情。
+Loop the motion	循环播放动作
+Options	选项
+Physics	物理效果
+Breathing	呼吸
+Pause	暂停
+Resume	继续
+Back to idle	回到待机
+Low quality	低画质
+Default	默认
+Story	剧情
+Live	演出
+Side	配角
+Casual	私服
+Spring	春
+Summer	夏
+Winter	冬
+School uniform	制服
+High school	高中
+Middle school	初中
+1st year	一年级
+2nd year	二年级
+3rd year	三年级
+Live outfit	演出服
+Roomwear	居家服
+Part-time job	打工
+Live house	Live House
+Caretaker	看护
+Childhood	童年
+Detective	侦探
+Idol	偶像
+Virtual	虚拟形象
+Voice only	仅语音
+Suit	西装
+Tracksuit	运动服
+Maid	女仆
+Still	静态
+Mask	面具
+Silhouette	剪影
+Glasses	眼镜
+Novelty glasses	搞笑眼镜
+Sunglasses	墨镜
+Hat	帽子
+Hair down	散发
+Twin tails	双马尾
+Our Notes Live2D Viewer	Our Notes Live2D 浏览器
+Browse every Live2D model of BanG Dream! Our Notes by character and costume right in your browser: idle motion, blinking, breathing and physics as in the story, with every motion and expression on demand.	按角色与服装浏览 BanG Dream! Our Notes 的全部 Live2D 模型：在浏览器中重现剧情里的待机动作、眨眼、呼吸与物理效果，并可随时切换每一个动作与表情。
+ALL	全部
+Open sidebar	打开侧边栏
+Close sidebar	关闭侧边栏
+Open settings	打开设置
+Open command palette	打开命令面板
+Skip to content	跳到正文
+Expand navigation groups	展开导航分组
+Expand sibling pages	展开同组页面
+Search pages or features...	搜索页面或功能...
+No results found	没有找到结果
+Shortcuts	快捷键
+Home	首页
+Database	资料库
+Music	音乐
+Events	活动
+Tools	工具
+About	关于
+Characters	角色
+Cards	卡牌
+Support Cards	支援卡
+Music List	音乐列表
+Event List	活动一览
+Gacha	招募
+Missions & Rewards	任务与奖励
+Titles	称号
+Backgrounds	背景
+Stickers	贴纸
+Comics	漫画
+Items	持有物
+Band Gear	乐队道具
+Main Story	主线剧情
+Event Story	活动剧情
+Bond Stories	羁绊剧情
+Other Stories	其它剧情
+Post-live Talks	演出结束会话
+Home Stories	主页地点剧情
+Tutorial Stories	教程剧情
+Asset Viewer	资产查看器
+Design System	设计系统
+Chart Previewer	谱面预览器
+Exchange Shop	交换所
+Live2D Viewer	Live2D 浏览器
+Story Player	剧情播放器
+News	游戏公告
+Event Tracker	活动追踪器
+Song Rankings	歌曲排行榜
+Song Meta	歌曲meta
+Search	搜索
+Shop	商店
+Missions	任务
+Real Lives	现实演出
+Birthday Stories	生日剧情
+Help	帮助
+Chart Table	谱面一览
+Playlists	歌单
+Calendar	日历
+Catalog	目录
+License	许可
+Terms of Use	使用条款
+Privacy	隐私
+Search cards, songs, characters, stories…	搜索卡牌、歌曲、角色、剧情…
+Filter by type	按类型筛选
+See all results	查看全部结果
+All	全部
+Pages	页面
+Songs	歌曲
+Stories	剧情
+Rewards	奖励
+Exchange Shops	交换所
+Settings	设置
+Some languages use machine translation and may contain inaccuracies.	部分语言使用机器翻译，可能存在不准确之处。
+Theme	主题模式
+Default game server	默认区服
+Auto ({server})	自动（{server}）
+System	跟随系统
+Light	浅色
+Dark	深色
+Settings sections	设置分类
+General	通用
+Data	数据
+Theme color	主题色
+Density	界面密度
+Comfortable	宽松
+Compact	紧凑
+Song titles	歌曲名
+Always show Japanese titles	始终显示日文曲名
+Show every song under its original Japanese title, whatever the site language.	无论网站语言如何，都以日文原名显示歌曲。
+Download cache	下载缓存
+Cached	已缓存
+{count} files	{count} 个文件
+Live2D models	Live2D 模型
+Images	图片
+Audio	音频
+3D charts	3D 谱面
+Characters of the Live2D viewer and the stories	Live2D 浏览器与剧情中的角色
+Pictures on the pages, and the stories' backgrounds and still pictures	页面上的图片，以及剧情的背景与插图
+Voices, music and sound effects of the stories, and audio on the pages	剧情的语音、背景音乐与音效，以及页面上的音频
+Songs, stages and effects of the 3D chart preview	3D 谱面预览的歌曲、舞台与特效
+Fonts, interface and scripts of the stories, and the game data the pages read	剧情的字体、界面与剧本，以及页面读取的游戏数据
+Calculating…	正在计算…
+Clear	清除
+Clear all cached data	清除全部缓存
+Clearing…	正在清除…
+This browser does not let the site keep files (private browsing can block it), so they download each time.	当前浏览器不允许本站保存文件（无痕模式可能会禁止），每次打开都会重新下载。
+Close	关闭
+Clear cache	清除缓存
+Refresh	刷新
+Open	打开
+View group	查看分组
+Loading	正在加载
+Filter	筛选
+Sort	排序
+Reset filters	重置筛选
+Collapse	收起
+Expand	展开
+Open filter	打开筛选器
+Filters moved to the side	筛选器已移至侧边
+Tap the tab on the left to reveal or fold this starry filter drawer anytime.	轻触左侧标签，便可随时唤出或收拢这片星芒筛选器。
+Got it	知道了
+Date range	日期范围
+From	开始
+To	结束
+This browser may not show the site properly	当前浏览器可能无法正常显示本站
+In-app browsers and browsers with an outdated engine can break the layout, audio and chart previews.	QQ、微信等应用的内置浏览器，或内核较旧的浏览器，可能导致页面排版错乱、音频与谱面预览无法使用。
+Tap the ··· menu in the top-right corner and choose “Open in browser”.	可点击右上角「···」，选择「在浏览器中打开」。
+Every browser on iPhone and iPad runs on Safari's engine, which updates with iOS. Update to the latest iOS in Settings › General › Software Update.	iPhone 与 iPad 上的浏览器都使用 Safari 内核，内核随 iOS 一同更新。请前往「设置 › 通用 › 软件更新」将 iOS 更新到最新版本。
+For the full experience, open this site in Chrome or Edge.	推荐使用狐猴浏览器（Lemur），它基于新版 Chromium 内核，可在国内应用商店直接下载。
+For the full experience, open this site in Edge or Chrome.	推荐使用 Microsoft Edge，国内网络即可直接下载。
+Get {name}	下载 {name}
+Dismiss	关闭提示
+A handwritten notebook for BanG Dream! Our Notes, dedicated to the stage and the stars.	写给舞台与星光的 Our Notes 漫步手帐
+Explore	探索
+Sister Sites	姐妹站
+Friendly Sites	友情站
+Contact & Feedback	联系与反馈
+Bug Report	错误报告
+Discord community ({name})	Discord 社区（{name}）
+{name} QQ Group ({number})	{name} QQ群（{number}）
+Source on GitHub	GitHub 源码
+Legal	法律信息
+© 2026 Moenotes · A Notebook of Girls and Starlight	© 2026 Moenotes · 少女与星光的手帐
+Version	版本
+Materials archived in this notebook are presented solely for display and appreciation. Game copyrights belong to Bushiroad / Craft Egg / Ishimori. This is an unofficial fan-made notebook crafted with love to cherish every memory of music and youth.	本手帐收录素材仅作展示与欣赏，游戏相关版权皆归属于 Bushiroad / Craft Egg / Ishimori。这是一个由同好倾心搭建的非官方粉丝笔记本，愿与你一同珍藏每一段关于音乐与少女的记忆。
