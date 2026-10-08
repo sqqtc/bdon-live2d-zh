@@ -5,6 +5,20 @@
   "type": "module",
   "description": "Tampermonkey userscript that turns the Live2D tool page of bdon.yatta.moe (Project Yume) into Simplified Chinese.",
   "license": "AGPL-3.0",
+  "keywords": [
+    "tampermonkey",
+    "userscript",
+    "live2d",
+    "bang-dream",
+    "bangdream",
+    "our-notes",
+    "project-yume",
+    "simplified-chinese",
+    "chinese-translation",
+    "hanhua",
+    "i18n",
+    "bdon"
+  ],
   "engines": {
     "node": ">=18"
   },

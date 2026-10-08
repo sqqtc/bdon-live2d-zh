@@ -7,6 +7,10 @@
 ![tests](https://img.shields.io/badge/tests-89%20%2B%2047%20%2B%2048%20passing-brightgreen)
 ![platform](https://img.shields.io/badge/Tampermonkey-userscript-orange)
 
+> **关键词**：BanG Dream! Our Notes 数据库 中文 · 邦邦 汉化 · Live2D 工具页 汉化 · 油猴脚本 / Tampermonkey · 简体中文界面 · 中文补丁 · bdon.yatta.moe 汉化 · Project Yume 中文
+>
+> 这个仓库是给 [bdon.yatta.moe](https://bdon.yatta.moe/)（Project Yume，BanG Dream! Our Notes 数据库）的 Live2D 工具页做的**简体中文汉化油猴脚本**：装上之后，调整器的参数、动作、表情、按钮、提示全部显示中文。
+
 不用改站点源码，也不用架镜像：脚本在浏览器里把界面文案改写成中文。
 **关键在于 —— 站点脚本读到的仍然是英文原文**，所以按钮、下拉、动作播放全都照常工作。
 
